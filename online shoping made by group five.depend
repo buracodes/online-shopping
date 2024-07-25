@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679943309 source:c:\users\biruk\documents\c++  project\online shoping made by group 5\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1693353610 source:c:\users\biruk\documents\doc\c++  project\online shoping\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
